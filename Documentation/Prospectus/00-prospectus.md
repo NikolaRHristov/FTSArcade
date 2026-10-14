@@ -17,7 +17,7 @@
 
 **Problem:** Not yet documented. The FTSArcade website (frymatic.us/FTSArcade, retrieved 2026-10-14) is a free-play browser arcade and does not by itself establish a San Francisco community need. `[INFORMATION NEEDED: research lead; required to name the condition, its cause, and local scale; blocks Section 2 - DR-01]`
 
-**Intervention:** Not yet chosen. The team's commercial roster (cabinet sales, custom game development, city-promotion ecosystem, internal game economy, stickers/QR/Uber referrals) is a set of businesses, not a charitable intervention. A single admissible framing has been hypothesized but not adopted: *"Provide publicly accessible cultural and recreational game installations that document and increase engagement with specific San Francisco places, while any advertising or commerce funds free public access."* This is an **E4 assumption** pending a beneficiary, site plan, access rules, and evidence (`[DR-06]`).
+**Intervention:** Not yet chosen. The team's commercial roster (cabinet sales, custom game development, city-promotion ecosystem, internal game economy, stickers/QR/Uber referrals) is a set of businesses, not a charitable intervention. A single admissible framing has been hypothesized but not adopted: *"Provide publicly accessible cultural and recreational game installations that document and increase engagement with specific San Francisco places, while any advertising or commerce funds free public access."* This is an **E4 assumption** pending a beneficiary, site plan, access rules, and evidence. Decision state recorded 2026-10-14 (`03-registers.md` §1.1, DR-06): **undecided** - frame options recorded, none chosen (`[DR-06]`).
 
 **Role of FTSArcade:** Candidate platform roles are under discussion. Known product facts (E1, from the site): browser-based, publicly accessible, free play, 24 cabinets listed, 15 live, 8 work-in-progress builds, settings incl. reduced-motion accessibility. What FTSArcade would *uniquely* contribute to an intervention is **undefined** until the intervention is chosen.
 
@@ -64,7 +64,7 @@ This template cannot be filled yet. Do not substitute promotional prose.
 
 `[INFORMATION NEEDED: program lead; required to specify pathway, dose, setting, staffing, completion rule; blocks intervention section and all downstream sections - DR-01/DR-05]`
 
-Candidate directions from the export (options, **not chosen**, recorded 2026-10-14 in `03-registers.md` §1.1 with roles, evidence needs, and weakest assumptions): creative workforce pathways; accessible community learning; community connection; public cultural-installation program (DR-06 frame hypothesis); none approved. Each would give FTSArcade a different function (entry point into structured game-development training; platform for facilitated digital-literacy programs; tool for recurring facilitated neighborhood activities). Choosing one is `[DR-01]`.
+Candidate directions from the export (options, **not chosen**, recorded 2026-10-14 in `03-registers.md` §1.1 with roles, evidence needs, and weakest assumptions): creative workforce pathways; accessible community learning; community connection; public cultural-installation program (DR-06 frame - decision state recorded 2026-10-14 as undecided, `03-registers.md` §1.1); none approved. Each would give FTSArcade a different function (entry point into structured game-development training; platform for facilitated digital-literacy programs; tool for recurring facilitated neighborhood activities). Choosing one is `[DR-01]`; the frame for the public cultural-installation direction is `[DR-06]`.
 
 ### 3.2 Platform boundary (provisional, pending intervention decision)
 
@@ -92,11 +92,13 @@ Site-observation inference rules (from the export, binding): a playable game = p
 
 **Rule applied:** every arrow is an assumption that must be explained and supported; a claim may move down in confidence but never up (an E3 finding cannot be rewritten as "proven").
 
-### 4.2 Candidate charitable frame (E4 hypothesis, not adopted)
+### 4.2 Candidate charitable frame (decision state undecided as of 2026-10-14; E4 hypothesis, not adopted)
+
+**Decision state recorded 2026-10-14 (`03-registers.md` §1.1, DR-06): undecided** - the frame options are recorded, not chosen: (a) public cultural-installation program supported by commerce (the export's hypothesized frame below), (b) commercial arcade business with civic branding (rejected-type option - export: only the first is likely to fit this competition), (c) none approved. Every roster item remains a business, not a charitable intervention, until a frame is chosen.
 
 > Participating businesses fund or host public arcade installations. The installations feature approved San Francisco places and businesses. Public use creates measurable cultural, educational, recreational, or economic benefits for San Francisco residents. Advertising and upselling remain subordinate to that public purpose.
 
-Every arrow in this chain is currently unproven and must be labeled an assumption until defined: public beneficiary; public result (free cultural access, documented local history, youth activity, verified spending - not "popularity"/"notoriety", which are not measurable outcomes as stated); business benefit that is incidental; selection rules for businesses/landmarks; free-access rules; and evidence connecting gameplay to the stated city benefit. Decision: `[DR-06]`.
+Every arrow in this chain is currently unproven and must be labeled an assumption until defined: public beneficiary; public result (free cultural access, documented local history, youth activity, verified spending - not "popularity"/"notoriety", which are not measurable outcomes as stated); business benefit that is incidental; selection rules for businesses/landmarks; free-access rules; and evidence connecting gameplay to the stated city benefit. Decision: `[DR-06]` (undecided as of 2026-10-14 - `03-registers.md` §1.1).
 
 ### 4.3 Structural change questions (unanswered)
 
@@ -181,7 +183,7 @@ Data-dictionary entries for every figure used anywhere in the packet are in `03-
 
 **Claim (E1, rule):** Indirect costs are allowed up to 29% of direct project or activity costs, within the $50M award limit (rules page, retrieved 2026-10-14) - not 29% of the total award.
 
-**Claim (E1, rule):** Award funds may not be used entirely for general operating support; for-profit leads face expenditure responsibility under IRC §4945(h); spending must serve tax-exempt purposes with only incidental private benefit.
+**Claim (E1, rule):** Award funds may not be used entirely for general operating support; for-profit leads face expenditure responsibility under IRC §4945(h); spending must serve tax-exempt purposes with only incidental private benefit (rules §3/§8; the charitable frame defining the tax-exempt purpose is **undecided** as of 2026-10-14 - `03-registers.md` §1.1, DR-06).
 
 **What is not known (blocks this section):**
 - Every dollar figure. `[INFORMATION NEEDED: budget owner; cost source]` - the methodology forbids inventing costs; amounts are to be built bottom-up: unit cost → operating volume → support costs → contingency.
@@ -215,7 +217,7 @@ Data-dictionary entries for every figure used anywhere in the packet are in `03-
 
 - Lead Organization must have legal responsibility for funds, reporting, and actual authority to direct and supervise the solution. A fiscal sponsor must genuinely control the project - "receive the money and immediately pass it all to us" is not acceptable. `[DR-02]`
 - Roles per methodology (source owner, program lead, evidence reviewer, budget owner, independent reader, authorized signatory) - no named persons exist yet. `[INFORMATION NEEDED: team roster with named people; required for capacity claims]`
-- Award-spending controls for a for-profit lead: documented charitable purpose and permitted-use budget; project-specific accounting; financial/outcome reporting; policies for owner compensation, related-party transactions, and IP licensing; procedures to identify and prevent prohibited spending (recommend U.S. nonprofit-tax counsel and accountant).
+- Award-spending controls for a for-profit lead: documented charitable purpose and permitted-use budget; project-specific accounting; financial/outcome reporting; policies for owner compensation, related-party transactions, and IP licensing; procedures to identify and prevent prohibited spending (recommend U.S. nonprofit-tax counsel and accountant). The documented charitable purpose depends on the charitable frame - **undecided** as of 2026-10-14 (`03-registers.md` §1.1, DR-06).
 
 ### 10.2 Risk register (summary; full register with triggers in `05-durability-risks-rights.md`)
 
@@ -235,7 +237,7 @@ All ownership/licensing of code, art, audio, branding, and third-party component
 | 2 | Legal lead entity + eligibility confirmation | Submission itself | Authorized officer | DR-02 |
 | 3 | Beneficiary definition | Need, Solution, all downstream | Program lead | DR-01 (undecided as of 2026-10-14 - recorded `03-registers.md` §1.1) |
 | 4 | Intervention / participant pathway | Solution, Mechanism, Budget | Program lead | DR-05 |
-| 5 | Charitable frame + single public outcome | Mechanism, Ambition | Decision owner | DR-06, DR-07 |
+| 5 | Charitable frame + single public outcome | Mechanism, Ambition | Decision owner | DR-06 (undecided as of 2026-10-14 - recorded `03-registers.md` §1.1), DR-07 |
 | 6 | Outcome claim | Evidence, Measurement | Evidence reviewer | DR-05 |
 | 7 | Funding scenario + cost model | Financial plan | Budget owner | DR-04 |
 | 8 | SF delivery capacity + partners | Viability | Program lead | DR-01/09 |
