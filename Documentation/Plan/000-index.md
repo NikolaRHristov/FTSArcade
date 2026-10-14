@@ -6,7 +6,9 @@ Every change is first designed as a plan file here, then executed. Statuses: pla
 
 | # | Plan file | Title | Status | Notes |
 |---|---|---|---|---|
-| 001 | `Documentation/Plan/001-repo-scaffold.md` | Repo scaffold: structure, plan/log infrastructure, first build roadmap | executed | Flipped to "committed" by the orchestrator in the scaffold's single commit |
+| 001 | `Documentation/Plan/001-repo-scaffold.md` | Repo scaffold: structure, plan/log infrastructure, first build roadmap | committed | Committed in the scaffold's single commit (e535ba6) |
+| 002 | `Documentation/Plan/002-review-model.md` | Review model: threefold review of every section (constitution §11) | committed | Committed in this version's single commit |
+| 003 | `Documentation/Plan/003-review-revision.md` | Review revision: verbatim comprehension questions, run-trigger rule, §9.2 citation (constitution §11) | committed | Committed in this version's single commit |
 
 ## Status Lifecycle
 

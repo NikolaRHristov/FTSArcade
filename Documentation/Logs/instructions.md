@@ -16,6 +16,7 @@ Plans only. The repo holds PLANS of what the team will build - formatted, presen
 - **pre-plan agent:** designs the change, writes `Documentation/Plan/NNN-*.md`, never edits packet documents.
 - **execute agent:** implements the approved plan exactly, appends the changes.md row, never commits.
 - **orchestrator:** re-orders and delegates, reviews, commits exactly one commit per version (`docs(grant): <change>`). Agents never commit, never push.
+- **review agents:** three independent reviewers per section (comprehension, rubric, evidence - see §11); they report findings and verdicts only, never revise content.
 
 ## 4. Commit discipline
 
@@ -100,3 +101,92 @@ Every executed task appends one row to `Documentation/Logs/changes.md` with its 
 | `Documentation/Refinement/` | Alignment matrix, gap report, editing checklist |
 | `Documentation/Plan/` | Plan files (this repo's change designs) |
 | `Documentation/Logs/` | Instructions, research log, changes |
+| Documentation/Reviews/ | Threefold review artifacts: comprehension.md, rubric.md, evidence.md per section; run + master indexes (§11) |
+
+## 11. Review model - threefold review of every section
+
+### 11.1 Granularity - sections are the unit of work
+- Split every document into review sections: each existing ## heading is one
+  section; where a page budget applies, each budgeted page starts a new section.
+- Review every paragraph inside a section individually, in reading order; never
+  skip, sample, or merge paragraphs.
+- A section is reviewed, revised, and re-reviewed on its own; never batch two
+  sections into one review.
+- Slugify every section heading (lowercase, hyphens) for artifact naming (§11.3).
+
+### 11.2 The three reviewer roles
+- One section's review consists of THREE separate review agents, run
+  independently: comprehension, rubric, evidence.
+- Comprehension reviewer: an unfamiliar reader restates the section without
+  looking back and answers the six questions:
+  1. Who in San Francisco benefits?
+  2. What problem does the project address?
+  3. What does the team actually deliver?
+  4. Why should that produce the claimed outcomes?
+  5. Why is the requested amount justified?
+  6. What remains after funding ends?
+- Rubric reviewer: scores the section 1-5 on the four rubric criteria
+  (transformative ambition, viability, evidence of results, durability),
+  justifies each score, and names the strongest claim, the most important
+  unsupported assumption, the main execution risk, and what would raise each
+  score.
+- Evidence reviewer: checks every factual, partnership, budget, legal, and
+  outcome claim against the source case; verifies evidence grades (§5), figures
+  against the data dictionary, no silent inference, no prohibited words (§6),
+  and the editing tests (§7).
+- Each reviewer runs the named steps of its facet in order and writes one
+  artifact per round (§11.3); reviewers never edit the section - findings and
+  verdicts only.
+
+### 11.3 Review artifacts
+- Every round writes to Documentation/Reviews/<NNN>-<slug>/<section-slug>/:
+  comprehension.md, rubric.md, evidence.md - one file per facet per section;
+  rounds append, never rewrite.
+- Each facet file records: reviewer, date, round, findings table
+  (paragraph | finding | rule violated | severity), and verdict PASS or FAIL.
+- Each run's index Documentation/Reviews/<NNN>-<slug>/index.md holds one row per
+  section: section | comprehension | rubric | evidence | rounds | status |
+  pass date.
+- The master index Documentation/Reviews/README.md holds one row per review run;
+  add the row when the run starts.
+- Superseded findings stay in the files (audit trail); delete nothing after a
+  round.
+
+### 11.4 Pass rules and iteration
+- Comprehension passes when the reviewer answers all six questions without
+  looking back and each answer names the beneficiary, action, responsible
+  party, evidence basis, and limitation without inference.
+- Rubric passes when all four criteria carry a score with justification and
+  every named blocker ("what would raise the score") is answered in the section
+  or recorded as [INFORMATION NEEDED: <owner>; why; decision blocked].
+- Evidence passes when every material claim has an evidence grade and source,
+  no E5 claim remains, figures match the data dictionary, and no prohibited
+  word (§6) or failed editing test (§7) remains.
+- A section passes only when all three facets pass in the SAME round; a single
+  FAIL sends the section back to revision.
+- Revision runs through the standard cycle (§3): a pre-plan agent designs the
+  revision (Editorial-class fixes (§9.2) may use an addendum to the producing plan),
+  an execute agent implements it, then all three facets re-review.
+- Rounds are capped at three per section per facet; after round three with any
+  facet failing, status becomes blocked and the orchestrator chooses: a new
+  plan, a section cut (page-budget rule), or a recorded [INFORMATION NEEDED].
+- The orchestrator records pass and blocked statuses in the run index; it never
+  overrides a reviewer's FAIL without a new round.
+
+### 11.5 Paragraph acceptance - five questions per paragraph
+- Review every paragraph with five yes-or-no questions: (1) does the first
+  sentence state its claim, (2) can the claim be traced, (3) is its certainty
+  correctly labeled, (4) does it add exactly one new idea, (5) would deleting
+  it remove useful information rather than tone.
+- Retain the paragraph only if all five answers are yes; any no is a finding
+  naming the failed question.
+
+### 11.6 Run trigger - when a review starts
+- A review run starts for every change that modifies a document, before the
+  version is committed: at each task's verification per plan 001 T01-T12 and
+  at every later plan's execution (binding per plan 002 §2.1; the follow-on
+  packet sweep runs per plan 002 §2.2).
+- The orchestrator starts the run - assigns the three reviewers (§11.2) and
+  adds the run's row to the master index (§11.3) - and the change's changes.md
+  row is appended only after all three facets pass or a blocked status is
+  recorded (§11.4).
