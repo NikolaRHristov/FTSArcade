@@ -21,7 +21,7 @@
 
 **Role of FTSArcade:** Candidate platform roles are under discussion. Known product facts (E1, from the site): browser-based, publicly accessible, free play, 24 cabinets listed, 15 live, 8 work-in-progress builds, settings incl. reduced-motion accessibility. What FTSArcade would *uniquely* contribute to an intervention is **undefined** until the intervention is chosen.
 
-**Change sought:** Undefined. `[INFORMATION NEEDED: decision owner; required to name the structural change, the structure's current controller, and the project's leverage over it; blocks rubric criterion 1 - DR-06/DR-07]`
+**Change sought:** Undefined. Single public outcome decision state recorded 2026-10-14 (`03-registers.md` §1.1, DR-07): **undecided** - candidate outcomes recorded, none chosen. `[INFORMATION NEEDED: decision owner; required to name the structural change, the structure's current controller, and the project's leverage over it; blocks rubric criterion 1 - DR-06/DR-07]`
 
 **Funding request:** Not yet calculated. The award range is $10M-$50M (max $50M); the request must equal supported costs built bottom-up, not a starting figure. `[INFORMATION NEEDED: budget owner; required to produce the four-layer cost model; blocks Sections 8 - DR-04]`
 
@@ -98,7 +98,7 @@ Site-observation inference rules (from the export, binding): a playable game = p
 
 > Participating businesses fund or host public arcade installations. The installations feature approved San Francisco places and businesses. Public use creates measurable cultural, educational, recreational, or economic benefits for San Francisco residents. Advertising and upselling remain subordinate to that public purpose.
 
-Every arrow in this chain is currently unproven and must be labeled an assumption until defined: public beneficiary; public result (free cultural access, documented local history, youth activity, verified spending - not "popularity"/"notoriety", which are not measurable outcomes as stated); business benefit that is incidental; selection rules for businesses/landmarks; free-access rules; and evidence connecting gameplay to the stated city benefit. Decision: `[DR-06]` (undecided as of 2026-10-14 - `03-registers.md` §1.1).
+Every arrow in this chain is currently unproven and must be labeled an assumption until defined: public beneficiary; public result (free cultural access, documented local history, youth activity, verified spending - not "popularity"/"notoriety", which are not measurable outcomes as stated; the single public outcome is recorded, not chosen, decision state undecided as of 2026-10-14 - `03-registers.md` §1.1, DR-07); business benefit that is incidental; selection rules for businesses/landmarks; free-access rules; and evidence connecting gameplay to the stated city benefit. Decision: `[DR-06]` (undecided as of 2026-10-14 - `03-registers.md` §1.1).
 
 ### 4.3 Structural change questions (unanswered)
 
@@ -107,7 +107,7 @@ Every arrow in this chain is currently unproven and must be labeled an assumptio
 - Why do individual outcomes accumulate into broader change?
 - What result would remain even if one cohort ended?
 
-If the only result is that participants received a service, the proposal is service delivery and the structural claim must be revised. `[INFORMATION NEEDED: decision owner; required for rubric criterion 1; blocks Section 4 - DR-06/DR-07]`
+If the only result is that participants received a service, the proposal is service delivery and the structural claim must be revised. Single public outcome decision state recorded 2026-10-14 (`03-registers.md` §1.1, DR-07): **undecided** - candidate outcomes recorded, none chosen. `[INFORMATION NEEDED: decision owner; required for rubric criterion 1; blocks Section 4 - DR-06/DR-07]`
 
 ---
 
@@ -173,7 +173,7 @@ Indicator design from the methodology (indicators must be defined before claimin
 | Progression | Education, paid work, or continued participation (never anecdotes without denominator) | Not defined |
 | System | Adopted pathway, recurring slots, changed access rules (never aspirational description) | Not defined |
 
-For every indicator the team must later specify: baseline, target, measurement instrument, collection timing, and decision affected. A target without a baseline must be labeled a planning target, not a forecast. `[INFORMATION NEEDED: evaluation lead; required once beneficiary and outcome are chosen; blocks Section 7 - DR-05]`
+For every indicator the team must later specify: baseline, target, measurement instrument, collection timing, and decision affected. A target without a baseline must be labeled a planning target, not a forecast. Single public outcome decision state recorded 2026-10-14 (`03-registers.md` §1.1, DR-07): **undecided** - candidate outcomes recorded, none chosen. `[INFORMATION NEEDED: evaluation lead; required once beneficiary and outcome are chosen; blocks Section 7 - DR-05]`
 
 Data-dictionary entries for every figure used anywhere in the packet are in `03-registers.md` (reach, completion, unit cost, outcome, website use, cabinet counts, indirect-cost rate, geographic share, award request).
 
@@ -237,7 +237,7 @@ All ownership/licensing of code, art, audio, branding, and third-party component
 | 2 | Legal lead entity + eligibility confirmation | Submission itself | Authorized officer | DR-02 |
 | 3 | Beneficiary definition | Need, Solution, all downstream | Program lead | DR-01 (undecided as of 2026-10-14 - recorded `03-registers.md` §1.1) |
 | 4 | Intervention / participant pathway | Solution, Mechanism, Budget | Program lead | DR-05 |
-| 5 | Charitable frame + single public outcome | Mechanism, Ambition | Decision owner | DR-06 (undecided as of 2026-10-14 - recorded `03-registers.md` §1.1), DR-07 |
+| 5 | Charitable frame + single public outcome | Mechanism, Ambition | Decision owner | DR-06 (undecided as of 2026-10-14 - recorded `03-registers.md` §1.1), DR-07 (undecided as of 2026-10-14 - recorded `03-registers.md` §1.1) |
 | 6 | Outcome claim | Evidence, Measurement | Evidence reviewer | DR-05 |
 | 7 | Funding scenario + cost model | Financial plan | Budget owner | DR-04 |
 | 8 | SF delivery capacity + partners | Viability | Program lead | DR-01/09 |
