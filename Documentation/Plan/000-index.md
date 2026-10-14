@@ -19,6 +19,7 @@ Every change is first designed as a plan file here, then executed. Statuses: pla
 | 011 | `Documentation/Plan/011-first-year-plan.md` | First-year operating plan framework: year-1 objectives mapped to claims, quarter plan, staffing/partners, survivors, risks (plan 001 T08) | committed | Committed in this version's single commit |
 | 012 | `Documentation/Plan/012-unit-cost-model.md` | Unit-cost model and funding-scenario framework: unit definitions, cost drivers, three scenarios with covered/lost, graded assumptions (plan 001 T09) | committed | Committed in this version's single commit |
 | 013 | `Documentation/Plan/013-narrative-framework.md` | Narrative framework: section skeleton, binding rules (paragraph method, drafting formula, uncertainty language), per-section source map, prose-block gate (plan 001 T10) | committed | Committed in this version's single commit |
+| 014 | `Documentation/Plan/014-verification-pass.md` | Editing-test verification pass: verdicts for the 8 editing tests + 21 checklist tests (plan 001 T11) | committed | Committed in this version's single commit |
 
 ## Status Lifecycle
 
