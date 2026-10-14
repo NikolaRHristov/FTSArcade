@@ -20,3 +20,4 @@ producing plan. Convention (constitution §11):
 | 006 | 006-charitable-frame | 03-registers.md, 01-source-case.md, 00-prospectus.md | DR-06 decision state + commercial-benefit test | passed (after revision) | 2026-10-14 |
 | 007 | 007-public-outcome | 03-registers.md, 01-source-case.md, 00-prospectus.md | DR-07 decision state + outcome options | passed (after revision) | 2026-10-14 |
 | 008 | 008-participant-pathway | Prospectus/06-participant-pathway.md | Pathway framework (7 sections, 20 markers) | passed | 2026-10-14 |
+| 009 | 009-platform-boundary | Prospectus/07-platform-boundary.md | Platform boundary (E1 facts, 16 markers, 11 non-claims) | passed | 2026-10-14 |
