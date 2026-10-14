@@ -1,8 +1,8 @@
 # FTSArcade - Boundless San Francisco Stage 1 - Internal Grant Prospectus Packet
 
-**Date:** 2026-10-14 (Wednesday)
-**Version label:** **S0 - Incomplete source packet; gap identification only.** Per the writing methodology (Reference/…/we're looking to prepare a grant application for h.md), S0 means the sources are not yet approved for drafting and this packet exists to surface gaps, not to persuade.
-**Readiness state:** **Not ready** - beneficiary, intervention, eligibility, and budget are all absent or unresolved. Per the methodology's final readiness states, the next action is to complete the source packet; drafting a submission narrative is not yet permitted.
+**Date:** 2026-10-15 (Thursday) - status fields updated by change 015 (plan 001 T12); packet content unchanged.
+**Version label:** **S0 - Incomplete source packet; gap identification only.** Per the writing methodology (Reference/…/we're looking to prepare a grant application for h.md), S0 means the sources are not yet approved for drafting and this packet exists to surface gaps, not to persuade. **Unchanged: the relabel to D1 is deferred (see Readiness state).**
+**Readiness state:** **Not ready** - the framework build is complete (all 12 plan-001 tasks executed; T01-T11 = plans 004-014, committed; T12 = change 015), but the packet is NOT Draftable: the verification pass recorded 14 PASS / 8 PARTIAL / 7 BLOCKED / 0 FAIL across 29 rows (`Documentation/Refinement/02-refinement-checklist.md` §(a)/§(a.1)); 4 distinct tests are BLOCKED - deletion, substitution, proportionality, sign-off - and the eligibility gate (DR-11) is Blocked. Unblocking decisions: DR-01/DR-06/DR-07 scope lock (deletion, substitution) -> narrative prose; DR-04 funding scenario (proportionality) -> request + loss list; DR-02/DR-03/DR-09/DR-11 + named signatory (sign-off). D1 relabel = named future change: "Relabel to D1 once the 4 blocked tests unblock (deletion, substitution, proportionality, sign-off)". Drafting a submission narrative is not yet permitted.
 **Packet owner:** Decision owner (unnamed). **[INFORMATION NEEDED: named decision owner; required to close any foundational choice; blocks every gate]**
 
 ---
@@ -18,6 +18,11 @@
 | 5 | `03-registers.md` | Decision register (10 open), data dictionary, evidence register | S0 | Decision owners |
 | 6 | `04-delivery-and-budget.md` | Delivery map + budget workbook structure (4 layers, 3 scenarios) | S0 | Program + budget owners |
 | 7 | `05-durability-risks-rights.md` | Post-grant model, risk register with triggers, rights schedule | S0 | Rights + executive owners |
+| 8 | `06-participant-pathway.md` | Participant pathway framework | S0 | Decision owners (DR-01/DR-06/DR-07 close) |
+| 9 | `07-platform-boundary.md` | Platform boundary framework | S0 | Decision owners (DR-01/DR-06/DR-07 close) |
+| 10 | `08-first-year-operating-plan.md` | First-year operating plan framework | S0 | Program + budget owners (scope lock; DR-04) |
+| 11 | `09-unit-cost-model.md` | Unit-cost model & funding scenarios | S0 | Budget owner (DR-04) |
+| 12 | `10-narrative.md` | Narrative framework (prose blocked until Draftable) | S0 | All owners (scope lock; DR-04; DR-10/DR-09; signatory) |
 
 **Authoritative sources for this packet (nothing else was used):**
 - The prior-conversation export: `Documentation/Reference/we're looking to prepare a grant application for h.md` (read in full; contains the methodology, the competition rules/FAQ/rubric verbatim extracts, the team's commercial roster, and the export's own analysis).

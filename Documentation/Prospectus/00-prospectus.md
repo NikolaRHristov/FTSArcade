@@ -1,7 +1,7 @@
 # FTSArcade - Internal Grant Prospectus (Master Document)
 
-**Version:** S0 (incomplete source packet - gap identification only) · **Date:** 2026-10-14
-**Status:** **Not ready.** Every section below either documents what is actually known (product facts, competition rules) or marks what is missing. No section asserts a beneficiary, intervention, partner, cost, or outcome that is not known.
+**Version:** S0 (incomplete source packet - gap identification only) · **Date:** 2026-10-15
+**Status:** **Not ready** - framework-complete S0: all 12 plan-001 tasks executed (T01-T11 = plans 004-014, committed; T12 = change 015; framework documents 06-10 in place). Draftable is NOT reached: 3 of the 8 editing tests and 4 of the 21 checklist tests are BLOCKED - 4 distinct tests: deletion, substitution, proportionality, sign-off (14 PASS / 8 PARTIAL / 7 BLOCKED / 0 FAIL - `Documentation/Refinement/02-refinement-checklist.md` §(a)/§(a.1)) - and the eligibility gate (DR-11) is Blocked. Unblocking decisions: DR-01/DR-06/DR-07 scope lock (deletion, substitution) -> narrative prose (T10 successor); DR-04 funding scenario (proportionality) -> request + loss list; DR-02/DR-03/DR-09/DR-11 + named signatory (sign-off). D1 relabel deferred - named future change: "Relabel to D1 once the 4 blocked tests unblock (deletion, substitution, proportionality, sign-off)". Every section below either documents what is actually known (product facts, competition rules) or marks what is missing. No section asserts a beneficiary, intervention, partner, cost, or outcome that is not known.
 **Decision-register references:** `[DR-0n]` points to the decision register in `03-registers.md`. Open decisions are presented with options and are **not** silently resolved.
 **Section page budget:** totals 16 pages per the methodology (tables count toward limits). S0 status means most budgets are unmet because required content is absent.
 

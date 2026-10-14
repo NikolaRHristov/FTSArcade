@@ -13,8 +13,9 @@ This repository holds PLANS and prospectus documents for an SF (San Francisco) g
 | Item | Value |
 |---|---|
 | Version label | S0 (incomplete source packet) |
-| Readiness | Not ready (content) |
-| Eligibility/registration gate | Blocked (DR-11 - unknown as of 2026-10-14) |
+| Readiness | Not ready (content) - framework-complete S0: all 12 plan-001 tasks executed (T01-T11 = plans 004-014, committed; T12 = this change); Draftable NOT reached - 7 of 29 verdict rows BLOCKED across 4 distinct tests (deletion, substitution, proportionality, sign-off; 14 PASS / 8 PARTIAL / 7 BLOCKED / 0 FAIL - `Documentation/Refinement/02-refinement-checklist.md` §(a)/§(a.1)) + eligibility gate Blocked |
+| Eligibility/registration gate | Blocked (DR-11 - registration status unknown as of 2026-10-14) |
+| D1 relabel | Deferred - named future change: "Relabel to D1 once the 4 blocked tests unblock (deletion, substitution, proportionality, sign-off)". Unblocking decisions: DR-01/DR-06/DR-07 scope lock (deletion, substitution) -> narrative prose (T10 successor); DR-04 funding scenario (proportionality) -> request + loss list (T09 successor); DR-02/DR-03/DR-09/DR-11 + named signatory (sign-off) |
 | Next milestone | D1 - first draftable packet (roadmap: `Documentation/Plan/000-index.md`) |
 
 ## Packet Tree
@@ -31,7 +32,12 @@ This repository holds PLANS and prospectus documents for an SF (San Francisco) g
 | `Documentation/Prospectus/03-registers.md` | Decision register DR-01…DR-10 | S0 |
 | `Documentation/Prospectus/04-delivery-and-budget.md` | Delivery & budget | S0 |
 | `Documentation/Prospectus/05-durability-risks-rights.md` | Durability/risks/rights | S0 |
-| `Documentation/Refinement/` | Alignment matrix, gap report, 21-test checklist | Current |
+| `Documentation/Prospectus/06-participant-pathway.md` | Participant pathway framework | S0 |
+| `Documentation/Prospectus/07-platform-boundary.md` | Platform boundary framework | S0 |
+| `Documentation/Prospectus/08-first-year-operating-plan.md` | First-year operating plan framework | S0 |
+| `Documentation/Prospectus/09-unit-cost-model.md` | Unit-cost model & funding scenarios | S0 |
+| `Documentation/Prospectus/10-narrative.md` | Narrative framework (prose blocked until Draftable) | S0 |
+| `Documentation/Refinement/` | Alignment matrix, gap report, 21-test checklist with recorded verdicts (14 PASS / 8 PARTIAL / 7 BLOCKED / 0 FAIL) | Current |
 | `Documentation/Plan/000-index.md` | Plan index | Current |
 | `Documentation/Logs/instructions.md` | Operating protocol (constitution) | Current |
 | `Documentation/Logs/research-log.md` | Research steps & open verification | Current |
