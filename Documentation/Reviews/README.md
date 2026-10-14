@@ -26,3 +26,4 @@ producing plan. Convention (constitution §11):
 | 012 | 012-unit-cost-model | Prospectus/09-unit-cost-model.md | Unit-cost model framework (3 scenarios, zero figures) | passed (after revision) | 2026-10-14 |
 | 013 | 013-narrative-framework | Prospectus/10-narrative.md | Narrative framework (8 sections, prose-block gate) | passed | 2026-10-14 |
 | 014 | 014-verification-pass | Refinement/02-refinement-checklist.md | Editing-test verdicts (14 PASS / 8 PARTIAL / 7 BLOCKED) | passed (after revision) | 2026-10-15 |
+| 015 | 015-readiness-sync | README.md, Prospectus/README.md, 00-prospectus.md | Readiness status sync (S0 framework-complete) | passed (after revision) | 2026-10-15 |
