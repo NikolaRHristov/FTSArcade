@@ -16,6 +16,7 @@ Every change is first designed as a plan file here, then executed. Statuses: pla
 | 008 | `Documentation/Plan/008-participant-pathway.md` | Participant pathway framework: who participates, entry points, step table, exit points (plan 001 T05) | committed | Committed in this version's single commit |
 | 009 | `Documentation/Plan/009-platform-boundary.md` | Platform boundary: what the platform is, inside/outside split, provider map (plan 001 T06) | committed | Committed in this version's single commit |
 | 010 | `Documentation/Plan/010-claim-ledger.md` | Claim ledger build-out: unified T07 columns, added C25-C28, live claim count 25 (plan 001 T07) | committed | Committed in this version's single commit |
+| 011 | `Documentation/Plan/011-first-year-plan.md` | First-year operating plan framework: year-1 objectives mapped to claims, quarter plan, staffing/partners, survivors, risks (plan 001 T08) | committed | Committed in this version's single commit |
 
 ## Status Lifecycle
 
