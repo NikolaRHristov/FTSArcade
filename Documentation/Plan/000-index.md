@@ -21,6 +21,7 @@ Every change is first designed as a plan file here, then executed. Statuses: pla
 | 013 | `Documentation/Plan/013-narrative-framework.md` | Narrative framework: section skeleton, binding rules (paragraph method, drafting formula, uncertainty language), per-section source map, prose-block gate (plan 001 T10) | committed | Committed in this version's single commit |
 | 014 | `Documentation/Plan/014-verification-pass.md` | Editing-test verification pass: verdicts for the 8 editing tests + 21 checklist tests (plan 001 T11) | committed | Committed in this version's single commit |
 | 015 | `Documentation/Plan/015-readiness-sync.md` | Readiness status-field sync: framework-complete S0 recorded, D1 relabel deferred, indices synced (plan 001 T12) | committed | Committed in this version's single commit |
+| 016 | `Documentation/Plan/016-review-sweep.md` | Review sweep: per-section threefold review of the five pre-review packet files (00/01/03/04/05) - 18 units, 6 batches, run 016-review-sweep | planned | Plan file only; sweep execution and fixes are follow-on changes |
 
 ## Status Lifecycle
 
