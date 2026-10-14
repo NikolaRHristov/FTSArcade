@@ -16,3 +16,4 @@ producing plan. Convention (constitution §11):
 | 002 | 002-review-model | instructions.md | §11 (threefold review model) | passed (after revision 003) | 2026-10-14 |
 | 003 | 003-review-revision | instructions.md | §11.2, §11.4, §11.6 | passed | 2026-10-14 |
 | 004 | 004-gate-decision | 03-registers.md, 00-prospectus.md, README.md | DR-11 gate entry + status fields | passed | 2026-10-14 |
+| 005 | 005-beneficiary-decision | 03-registers.md, 01-source-case.md, 00-prospectus.md | DR-01 decision state + options | passed | 2026-10-14 |

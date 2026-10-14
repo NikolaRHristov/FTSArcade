@@ -6,7 +6,7 @@
 
 | # | Source section | Required content | Completion test | Current status (2026-10-14) |
 |---|---|---|---|---|
-| 1 | **Beneficiary** | Specific San Francisco population | A reviewer can identify who is included and excluded | **NOT DEFINED.** No population, inclusion/exclusion rules, geography, or estimated reachable population. `[INFORMATION NEEDED: program lead; required to define who benefits and what changes; blocks Need, Solution, Measurement, Budget - DR-01]` |
+| 1 | **Beneficiary** | Specific San Francisco population | A reviewer can identify who is included and excluded | **NOT DEFINED.** Decision state recorded 2026-10-14 (`03-registers.md` §1.1, DR-01): **undecided** - no population is defined anywhere; candidate options (a) creative workforce pathways, (b) accessible community learning, (c) community connection, (d) public cultural-installation program, (e) none approved are recorded, **not chosen**. No inclusion/exclusion rules, geography, or estimated reachable population. `[INFORMATION NEEDED: program lead; required to define who benefits and what changes; blocks Need, Solution, Measurement, Budget - DR-01]` |
 | 2 | **Problem** | Current condition and its cause | Supported by a source or documented observation | **NOT DEFINED.** Site does not establish SF community outcomes; no baseline, cause, consequence, or source. `[INFORMATION NEEDED: research lead; required for a stand-alone Need section; blocks Section 2 - DR-01]` |
 | 3 | **Intervention** | Activities, dose, setting, duration | Someone else could understand what happens | **NOT DEFINED.** No participant pathway. Candidate directions (creative workforce pathways; accessible community learning; community connection) are options only. `[INFORMATION NEEDED: program lead; required to specify pathway, dose, setting, staffing, completion rule; blocks Sections 3-4 - DR-05]` |
 | 4 | **Platform role** | What FTSArcade uniquely contributes | Its function is narrower than "the whole project" | **PROVISIONAL ONLY.** Known product facts (E1): browser-based, publicly accessible, free play, 24 cabinets listed, 15 live, 8 WIP, settings incl. reduced-motion accessibility. Essential-function list is empty until intervention is chosen. Platform boundary: see `00-prospectus.md` §3.2. `[INFORMATION NEEDED: program lead; required to name the unique contribution; blocks Solution - DR-01/DR-05]` |
@@ -22,7 +22,7 @@
 ## Ten-statement source packet (drafting handoff format - cannot be completed yet)
 
 1. "The legal applicant is [entity], organized in [jurisdiction], with [tax status]." → **UNKNOWN** `[DR-02]`
-2. "The project serves [included population] in [San Francisco geography], excluding [groups]." → **UNKNOWN** `[DR-01]`
+2. "The project serves [included population] in [San Francisco geography], excluding [groups]." → **UNKNOWN** - decision state recorded 2026-10-14 (undecided) `[DR-01]`
 3. "The current problem is [condition], affecting [quantity or unknown scale], based on [source]." → **UNKNOWN** `[DR-01]`
 4. "A participant will [complete pathway], requiring [hours] over [period]." → **UNKNOWN** `[DR-05]`
 5. "FTSArcade will provide [functions], but will not provide [human services]." → **PARTIAL** - product facts known; function list pending `[DR-05]`
@@ -41,5 +41,6 @@
 | Date | Proposed change | Class | Reason | Evidence affected | Budget affected | Decision | Updated documents |
 |---|---|---|---|---|---|---|---|
 | 2026-10-14 | Initial S0 packet created | Foundational (source creation) | Team requested internal prospectus packet | - | - | Created | All files in this directory |
+| 2026-10-14 | DR-01 beneficiary decision state recorded (undecided; options listed, not chosen) | Clarifying | Plan 001 T02 requires the scope-lock record; no population is defined, so the state - not a beneficiary - is recorded | Export option list (E1, source); no new figures; F-11 estimate still INFORMATION NEEDED | - | Undecided as of 2026-10-14; owner program lead; deadline before scope lock | 03-registers.md, 01-source-case.md, 00-prospectus.md |
 
 New entries are appended here only via the change-control classes: Editorial (writer), Clarifying (section owner), Operational (program + budget owners, update source first), Foundational (decision owner + signatory, reopen affected gates).

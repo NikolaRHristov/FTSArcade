@@ -10,6 +10,7 @@ Every change is first designed as a plan file here, then executed. Statuses: pla
 | 002 | `Documentation/Plan/002-review-model.md` | Review model: threefold review of every section (constitution §11) | committed | Committed in this version's single commit |
 | 003 | `Documentation/Plan/003-review-revision.md` | Review revision: verbatim comprehension questions, run-trigger rule, §9.2 citation (constitution §11) | committed | Committed in this version's single commit |
 | 004 | `Documentation/Plan/004-gate-decision.md` | Gate decision: record eligibility/registration status (DR-11) | committed | Committed in this version's single commit |
+| 005 | `Documentation/Plan/005-beneficiary-decision.md` | Beneficiary scope lock: record DR-01 decision state and options (plan 001 T02) | committed | Committed in this version's single commit |
 
 ## Status Lifecycle
 

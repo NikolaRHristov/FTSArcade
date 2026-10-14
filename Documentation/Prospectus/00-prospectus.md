@@ -13,7 +13,7 @@
 
 **Placeholder - to be rewritten last from accepted body claims.** What follows is the maximum currently supportable summary.
 
-**Beneficiary:** Not yet defined. `[INFORMATION NEEDED: program lead; required to define who benefits and what changes; blocks the entire proposal - DR-01]`
+**Beneficiary:** Not yet defined. Decision state recorded 2026-10-14 (`03-registers.md` §1.1, DR-01): **undecided** - candidate options recorded, none chosen. `[INFORMATION NEEDED: program lead; required to define who benefits and what changes; blocks the entire proposal - DR-01]`
 
 **Problem:** Not yet documented. The FTSArcade website (frymatic.us/FTSArcade, retrieved 2026-10-14) is a free-play browser arcade and does not by itself establish a San Francisco community need. `[INFORMATION NEEDED: research lead; required to name the condition, its cause, and local scale; blocks Section 2 - DR-01]`
 
@@ -45,7 +45,7 @@
 **Why it matters to San Francisco:** A globally accessible website is not a local-delivery plan. The rubric's Viability criterion requires understanding of the city's context and communities; the Need section must stand independently of the solution.
 
 **What is missing (each blocks this section):**
-- Beneficiary definition with inclusion/exclusion rules, geography, and estimated reachable population → `[DR-01]`
+- Beneficiary definition with inclusion/exclusion rules, geography, and estimated reachable population → `[DR-01]` (decision state recorded 2026-10-14 as undecided - `03-registers.md` §1.1; no population is defined anywhere in the packet)
 - Problem analysis: baseline, cause, consequence, source, limitation. National statistics may not be presented as local facts (methodology standard of proof).
 - Any San Francisco-specific barrier, neighborhood, facility, service channel, or documented local condition.
 
@@ -64,7 +64,7 @@ This template cannot be filled yet. Do not substitute promotional prose.
 
 `[INFORMATION NEEDED: program lead; required to specify pathway, dose, setting, staffing, completion rule; blocks intervention section and all downstream sections - DR-01/DR-05]`
 
-Candidate directions from the export (options, **not chosen**): creative workforce pathways; accessible community learning; community connection. Each would give FTSArcade a different function (entry point into structured game-development training; platform for facilitated digital-literacy programs; tool for recurring facilitated neighborhood activities). Choosing one is `[DR-01]`.
+Candidate directions from the export (options, **not chosen**, recorded 2026-10-14 in `03-registers.md` §1.1 with roles, evidence needs, and weakest assumptions): creative workforce pathways; accessible community learning; community connection; public cultural-installation program (DR-06 frame hypothesis); none approved. Each would give FTSArcade a different function (entry point into structured game-development training; platform for facilitated digital-literacy programs; tool for recurring facilitated neighborhood activities). Choosing one is `[DR-01]`.
 
 ### 3.2 Platform boundary (provisional, pending intervention decision)
 
@@ -233,7 +233,7 @@ All ownership/licensing of code, art, audio, branding, and third-party component
 |---|---|---|---|---|
 | 1 | Registration status | Submission itself | Authorized officer | DR-03, DR-11 (recorded unknown as of 2026-10-14) |
 | 2 | Legal lead entity + eligibility confirmation | Submission itself | Authorized officer | DR-02 |
-| 3 | Beneficiary definition | Need, Solution, all downstream | Program lead | DR-01 |
+| 3 | Beneficiary definition | Need, Solution, all downstream | Program lead | DR-01 (undecided as of 2026-10-14 - recorded `03-registers.md` §1.1) |
 | 4 | Intervention / participant pathway | Solution, Mechanism, Budget | Program lead | DR-05 |
 | 5 | Charitable frame + single public outcome | Mechanism, Ambition | Decision owner | DR-06, DR-07 |
 | 6 | Outcome claim | Evidence, Measurement | Evidence reviewer | DR-05 |
