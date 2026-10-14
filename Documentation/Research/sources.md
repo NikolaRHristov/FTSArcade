@@ -1,0 +1,61 @@
+# Boundless San Francisco - Sources Log
+
+Every URL consulted during research for the facts pack (2026-10-14), with page title as fetched, what it verified, and failure notes. Legend: **LIVE** = fetched directly today; **ARCHIVED** = live fetch blocked, Internet Archive snapshot used and labeled; **UNVERIFIED** = could not be fetched by any means.
+
+## Competition sources
+
+| URL | Page title (as fetched) | What it verified | Status / notes |
+|-----|--------------------------|------------------|----------------|
+| https://leverforchange.org/open-calls/boundless-san-francisco/ | "Boundless San Francisco - Lever for Change" | Official LFC open-call page: funder (Crankstart), $150M total / up to 3 awardees × up to $50M; finalists 2027 with $250k-$500k each; registration deadline Sep 11 2026 5 p.m. PT; application deadline Oct 15 2026 5 p.m. PT "(deadline extended from October 9, 2026)"; Bold Solutions Network; Crankstart profile ($1.8B+ granted, >half to Bay Area) | **LIVE** (curl, 132 KB). **CONFLICT:** page's own timeline widget lists "October 9, 2026 Application Deadline" without extension note; body text says Oct 15 extended. Flagged in facts-pack C1 |
+| https://boundless-sf.leverforchange.org/ | "Boundless SF- Home" | Competition overview: funded by Crankstart, up to $150M, up to 3 Awardees × up to $50M; PRI option ("flexible, below-market capital"); registration Sep 11 / application Oct 15 (extended) 5 p.m. PT; evaluation process summary; webinar (Aug 18) recording links; application portal link; contact email | **LIVE** (curl, 13 KB) |
+| https://boundless-sf.leverforchange.org/rules | "Boundless SF- Rules" | All 11 eligibility categories (verbatim); ineligible persons (§2); 25% SF-locality rule (§1); fiscal-sponsor discretion/control (§1); expenditure responsibility IRC §4945(h) (§8); indirect costs ≤29% of direct project/activity costs (§7); prohibited uses (§3); ≥4 peer reviews with termination (§13.6); Evaluation Panel 4 reviewers per application (§13.7); up to 7 Finalists × up to $500k (§13.8); up to 3 Awardees × up to $50M (§13.8); PRI (§11); reporting (§12); MOU at finalist stage (§4); application in English (§13.1); one application per registrant (§13.5); IP license + publicity release (§14); contact boundless-sf@submittable.com (§16); Sponsor = Crankstart Foundation (Definitions) | **LIVE** (curl, 41 KB) |
+| https://boundless-sf.leverforchange.org/faq | "Boundless SF- FAQ" | Confirms: **application cannot be edited after submission ("No. ...")**; withdrawal possible; drafts autosave; registration + application deadlines incl. extension; fiscal sponsorship details (sponsor named in grant agreement; multiple distinct projects per sponsor OK); PRI terms; project development grant is general operating support, pool $1-3.5M; Participatory Review = 4 (up to 6) peer reviews, ~2.5 hours; Finalists selected "by June 2027"; prospectus "in summer 2027"; awardees announced fall 2027; Evaluation Panel composition; recusal policy; **conflicting eligibility intro sentence** ("must be based in the United States or U.S. Territories") followed by the full list incl. foreign entities - flagged C2; application portal boundless-sf-apply.leverforchange.org/submit; Submittable help links | **LIVE** (curl, 45 KB). Contains internal eligibility wording conflict (facts-pack C2) |
+| https://boundless-sf.leverforchange.org/timeline | "Boundless SF- Timeline" | Full stage timeline: launch Aug 5 2026; webinar Aug 18; registration Sep 11 5 p.m. PT; application Oct 15 5 p.m. PT (extended from Oct 9); Admin Review Oct-Nov 2026; Participatory Review Nov-Dec 2026 with Dec 9 / Dec 16 deadlines; Evaluation Panel Jan-Mar 2027; Finalist selection Mar-Jun 2027 (3-7); Project Development Jun-Aug 2027, prospectus August 2027; Grant Award Fall 2027 ($10-50M each, up to 3) | **LIVE** (curl, 12 KB) |
+| https://boundless-sf.leverforchange.org/evaluationprocess | "Boundless SF- Evaluation Process" | Full rubric verbatim: 4 equally weighted criteria, 1-5 scale, per-criterion score + comment, 4 reviewers per application, max 80 aggregate, normalization mechanics (mean-adjustment at two points), LFC staff review of all scores/comments; bias-training webinars; rubric PDF download link | **LIVE** (curl, 24 KB) |
+| https://torque.leverforchange.org/boundless-sf/images/e/e7/Boundless_San_Francisco_-_Evaluation_Rubric.pdf | (PDF) | Rubric PDF - confirmed downloadable, HTTP 200, application/pdf | **LIVE** (curl HEAD; content not extracted - the page text was used instead) |
+| https://boundless-sf.leverforchange.org/organizationreadinesstool | "Boundless SF- Organization Readiness Tool" | Self-assessment Q&A confirming every eligibility category (with "Great! ... eligible" responses), ineligible statuses (individuals/single-member LLCs; 501(c)(4)), SF-locality requirement, prohibited activities, PRI, two-year financials needed by March 2027, ~30 hours application time reported by past applicants, English-only requirement, application deadline + "Applicants submitted after the application deadline will not be accepted" | **LIVE** (curl, 31 KB) |
+| https://boundless-sf.leverforchange.org/evaluationpanel | "Boundless SF- Evaluation Panel" | Panel description (local + global practitioners; economic mobility, housing, public health); evaluator gallery (JS-loaded); recruitment ongoing | **LIVE** (curl, 9 KB; gallery is JS-rendered, not extracted) |
+| https://boundless-sf-apply.leverforchange.org/ (and /submit) | (not fetched) | Application portal links (from Home/FAQ HTML hrefs) | Linked, not fetched - portal requires registration/login |
+| https://app.box.com/s/5gzqu27env25td5yl9w1fh5sp1juw7bt | (Box share page) | "Full Application available in PDF form" link from Home page | **UNVERIFIED** - curl HEAD returns HTTP 404 (may be bot-block; Box share links often reject non-browser clients). Re-verify in a real browser before relying on application-form details (facts-pack C4) |
+| https://youtu.be/oXoVzG3CBh4 ; https://youtu.be/NiP8vfjHwzQ ; 2 Box interpretation links | (YouTube) | Applicant webinar recording (Aug 18, 2026) + ASL/Spanish/French interpretation (hrefs from Home page HTML) | Links present on live page; videos not fetched |
+| https://macfound.zoom.us/webinar/register/WN_j-cp65QjR3KKOLg2CYX-Ng | (Zoom registration) | Webinar registration link (from FAQ/timeline hrefs) | Link present; registration period likely closed |
+| mailto:boundless-sf@submittable.com | - | Official contact on every page | Present in Rules §16, FAQ, Home, footer |
+
+## FTSArcade
+
+| URL | Page title | What it verified | Status / notes |
+|-----|-----------|------------------|----------------|
+| https://frymatic.us/FTSArcade | "FishTacoStand Arcade" | Platform facts section (d) of facts-pack: 24-cabinet arcade UI, 15 live games, 9 WIP builds, free-play banner, WIP warning dialog, settings panel, no paywall/login text, no outcome claims anywhere | **LIVE** (curl, 191 KB). Strictly observed; no inference applied |
+
+## SF ecosystem sources
+
+| URL | Page title (as fetched) | What it verified | Status / notes |
+|-----|--------------------------|------------------|----------------|
+| https://www.sf.gov/arts-commission-mission-values | "Arts Commission Mission & Values | SF.gov" | Mission/vision/values/racial-equity statement verbatim (facts-pack §e) | **LIVE** - curl blocked by AWS WAF JS challenge (HTTP 202); fetched with headless Chromium via CDP. Raw curl attempts recorded as failed |
+| https://www.sf.gov/san-francisco-cultural-districts-program | "Cultural Districts Program | SF.gov" | Program overview, ten Cultural Districts, CHHESS reports, partner agencies | **LIVE** (headless browser; AWS WAF blocked curl) |
+| https://www.sf.gov/information--overview-san-francisco-cultural-districts-program | "An overview of the San Francisco Cultural Districts program | SF.gov" | 2018 ordinance, Prop E 75% majority + ~$3M/yr Hotel Tax Fund, three program goals, district definition | **LIVE** (headless browser) |
+| https://www.sf.gov/departments--office-economic-and-workforce-development | "Office of Economic and Workforce Development | SF.gov" | OEWD mission statement, five divisions incl. Community Economic Development and Office of Small Business; current news/events | **LIVE** (headless browser) |
+| https://media.api.sf.gov/documents/OSB_FY24-25_Annual_Report.pdf | "Annual Report FY2024-25" (PDF) | OSB mission, three strategic priorities, history (2003/2007/2015 ballot measures), Mayor Lurie message | **LIVE** (curl, 22.4 MB; PDF text extracted) |
+| https://media.api.sf.gov/documents/Office_of_Small_Business_Annual_Report_FY2025-26_ECMsJje.pdf | "FY2025-26 ANNUAL REPORT ... Office of Small Business" (PDF) | OSB about text, priorities, FY25-26 figures (3,608 businesses served; 959 Legacy Businesses; $10,355,368 awarded; 78 leases) | **LIVE** (curl, 5.6 MB; PDF text extracted). Caveat: PDF contains internal date-label oddities ("47% increase from FY25-26" within the FY25-26 report); verify before quoting |
+| https://sfplanning.org/project/racial-and-social-equity-action-plan | "Racial and Social Equity Action Plan | SF Planning" | Equity Plan purpose, two phases, 11 focus areas, Community Equity Advisory Council, ordinance/ORE mandate | **LIVE** (curl, 95 KB) |
+| https://sfplanning.org/community-stabilization-strategy | "Community Stabilization | SF Planning" | Multi-agency initiative, displacement definition (UC Berkeley UDP 2018), vulnerable-population categories, Public Report May 2020 | **LIVE** (curl, 102 KB) |
+| https://sfrecpark.org/419/Who-We-Are | "Who We Are | San Francisco Recreation and Parks, CA" | 230+ parks; mission statement; stats (4,257 acres, 233 neighborhood parks, 98 rec centers); GM Sarah Madland; 10-minute-walk claim; permits division | **ARCHIVED** - live site unreachable (connection timeout for curl and headless browser; status 000 / no response). Content from Internet Archive snapshot 2026-10-11 (http://web.archive.org/web/20261011201918/https://sfrecpark.org/419/Who-We-Are). **Must be re-verified live before quoting** |
+| https://www.sftravel.com/about-sf-travel | "About SF Travel | San Francisco Travel" | DMO identity, mission/vision, values, DEIA statement, 501(c)(6) status + 501(c)(3) foundation, funding mix (68% hotel assessment / 23% private), board/executive names | **ARCHIVED** - live page blocked by Cloudflare ("Just a moment..." challenge; curl and headless browser both failed). Content from Internet Archive snapshot 2026-08-13 (http://web.archive.org/web/20260813064342/https://www.sftravel.com/about-sf-travel). **Must be re-verified live before quoting** |
+
+## Other URLs referenced on competition pages (checked but not primary sources)
+
+| URL | Purpose | Status |
+|-----|---------|--------|
+| https://submittable.help/en/articles/9508596-changing-your-password | Password help (FAQ link) | Link present on live page; not fetched |
+| https://submittable.help/en/articles/904887-how-can-i-withdraw-my-submission | Withdrawal steps (FAQ link) | Link present; not fetched |
+| https://submittable.help/en/articles/3221476-how-can-i-safelist-notification-emails-from-submittable | Safelist notifications (FAQ link) | Link present; not fetched |
+| https://submittable.help/en/collections/185534-help-for-applicants | Submittable Help Center (FAQ link) | Link present; not fetched |
+| https://gdpr.submittable.com/submit/169577/request-to-delete | Account deletion (FAQ link) | Link present; not fetched |
+| https://manager.submittable.com/login | Submittable sign-in | Link present; not fetched (login-gated) |
+| https://www.irs.gov/charities-non-profits/private-foundations/grants-to-noncharitable-organizations | IRC §170(c)(2)(B) reference (rules/FAQ link) | Link present; not fetched |
+
+## Method notes (transparency)
+
+- `web_extract` was configured to the firecrawl backend, which is disabled in this environment - it could not be used. All live fetching was done with `curl` and, for bot-challenged pages, a headless Chromium (Brave) launched with a temporary profile via Chrome DevTools Protocol.
+- Failed URLs are reported as unverified in facts-pack.md - no content was guessed or synthesized for any of them.
+- Raw fetches are cached under `/Users/nikola/.hermes/cache/scratch/bsf/` (HTML, extracted text, and browser-extracted JSON) if re-inspection is needed.
