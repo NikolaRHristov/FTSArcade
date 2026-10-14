@@ -17,6 +17,7 @@ Every change is first designed as a plan file here, then executed. Statuses: pla
 | 009 | `Documentation/Plan/009-platform-boundary.md` | Platform boundary: what the platform is, inside/outside split, provider map (plan 001 T06) | committed | Committed in this version's single commit |
 | 010 | `Documentation/Plan/010-claim-ledger.md` | Claim ledger build-out: unified T07 columns, added C25-C28, live claim count 25 (plan 001 T07) | committed | Committed in this version's single commit |
 | 011 | `Documentation/Plan/011-first-year-plan.md` | First-year operating plan framework: year-1 objectives mapped to claims, quarter plan, staffing/partners, survivors, risks (plan 001 T08) | committed | Committed in this version's single commit |
+| 012 | `Documentation/Plan/012-unit-cost-model.md` | Unit-cost model and funding-scenario framework: unit definitions, cost drivers, three scenarios with covered/lost, graded assumptions (plan 001 T09) | committed | Committed in this version's single commit |
 
 ## Status Lifecycle
 

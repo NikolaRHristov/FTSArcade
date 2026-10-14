@@ -23,3 +23,4 @@ producing plan. Convention (constitution §11):
 | 009 | 009-platform-boundary | Prospectus/07-platform-boundary.md | Platform boundary (E1 facts, 16 markers, 11 non-claims) | passed | 2026-10-14 |
 | 010 | 010-claim-ledger | Prospectus/02-claim-ledger.md | Claim ledger (25 live claims, E5 relocation) | passed | 2026-10-14 |
 | 011 | 011-first-year-plan | Prospectus/08-first-year-operating-plan.md | First-year plan framework (38 markers, zero figures) | passed | 2026-10-14 |
+| 012 | 012-unit-cost-model | Prospectus/09-unit-cost-model.md | Unit-cost model framework (3 scenarios, zero figures) | passed (after revision) | 2026-10-14 |
