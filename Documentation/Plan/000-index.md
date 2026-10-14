@@ -13,7 +13,7 @@ Every change is first designed as a plan file here, then executed. Statuses: pla
 | 005 | `Documentation/Plan/005-beneficiary-decision.md` | Beneficiary scope lock: record DR-01 decision state and options (plan 001 T02) | committed | Committed in this version's single commit |
 | 006 | `Documentation/Plan/006-charitable-frame.md` | Charitable frame scope lock: record DR-06 decision state and options (plan 001 T03) | committed | Committed in this version's single commit |
 | 007 | `Documentation/Plan/007-public-outcome.md` | Single public outcome scope lock: record DR-07 decision state and options (plan 001 T04) | committed | Committed in this version's single commit |
-| 008 | `Documentation/Plan/008-participant-pathway.md` | Participant pathway framework: who participates, entry points, step table, exit points (plan 001 T05) | planned | Pre-plan agent wrote the plan; orchestrator flips status after execution and commit |
+| 008 | `Documentation/Plan/008-participant-pathway.md` | Participant pathway framework: who participates, entry points, step table, exit points (plan 001 T05) | committed | Committed in this version's single commit |
 
 ## Status Lifecycle
 
