@@ -6,7 +6,7 @@ This repository holds PLANS and prospectus documents for an SF (San Francisco) g
 
 > **Application deadline: Oct 15 2026, 5:00 p.m. PT (= Oct 16 2026, 03:00 EEST).**
 > Registration closed Sep 11 2026; only registered entities may submit.
-> Current gate status: **Blocked** - see `Documentation/Prospectus/03-registers.md`.
+> Current gate status: **Blocked** (DR-11: registration status unknown as of 2026-10-14) - see `Documentation/Prospectus/03-registers.md`.
 
 ## Packet Status
 
@@ -14,7 +14,7 @@ This repository holds PLANS and prospectus documents for an SF (San Francisco) g
 |---|---|
 | Version label | S0 (incomplete source packet) |
 | Readiness | Not ready (content) |
-| Eligibility/registration gate | Blocked |
+| Eligibility/registration gate | Blocked (DR-11 - unknown as of 2026-10-14) |
 | Next milestone | D1 - first draftable packet (roadmap: `Documentation/Plan/000-index.md`) |
 
 ## Packet Tree
@@ -39,7 +39,7 @@ This repository holds PLANS and prospectus documents for an SF (San Francisco) g
 
 ## Next Actions
 
-1. Resolve the eligibility/registration gate (plan task T01, Section 2 of `Documentation/Plan/001-repo-scaffold.md`).
+1. Send the registration/eligibility/geography email to boundless-sf@submittable.com (recorded decision DR-11; gate remains **Blocked** until the written answer).
 2. Read `Documentation/Logs/instructions.md` before touching any document.
 3. Track plans in `Documentation/Plan/000-index.md`.
 

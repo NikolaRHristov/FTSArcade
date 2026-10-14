@@ -27,9 +27,9 @@
 
 **What continues after the grant:** Undefined. `[INFORMATION NEEDED: executive owner; required to name the post-grant owner, payer, annual operating cost, and retained access; blocks rubric criterion 4 - DR-10]`
 
-**Eligibility:** Unresolved. Registration deadline (Sept 11, 2026, 5:00 p.m. PT) has passed; team registration status unknown. Legal entity, jurisdiction, and tax status unknown. Foreign (e.g., Bulgarian) entity eligibility requires written confirmation. `[INFORMATION NEEDED: authorized officer; required to establish a valid route to submit; blocks the application itself - DR-02/DR-03]`
+**Eligibility:** Recorded in DR-11 (2026-10-14): registration status **unknown** - as of 2026-10-14, the facts pack shows registration closed Sep 11, 2026, 5:00 p.m. PT and that only registrants may submit; no registration confirmation is located. Gate effect: **Blocked**. Legal entity, jurisdiction, and tax status remain unknown (DR-02). Foreign (e.g., Bulgarian) entity eligibility requires written confirmation (rules §1 categories 7/9; conflict C2). Next action: one email to boundless-sf@submittable.com covering registration exception, entity eligibility, and geography (DR-11). `[INFORMATION NEEDED: authorized officer (named person); required to confirm or deny registration and to send the follow-up email; blocks the application itself - DR-02/DR-03/DR-11]`
 
-**Bottom line:** As of 2026-10-14 this project is **Not ready** to draft a submission. One day remains to the Oct 15 deadline. The immediate action is the registration/eligibility go/no-go, not narrative writing.
+**Bottom line:** As of 2026-10-14 this project is **Not ready** to draft a submission. The registration/eligibility go/no-go is recorded in DR-11: status unknown, gate **Blocked**; the immediate action is the confirmation email to boundless-sf@submittable.com, not narrative writing.
 
 ---
 
@@ -231,7 +231,7 @@ All ownership/licensing of code, art, audio, branding, and third-party component
 
 | # | Unknown | Blocks | Owner | Decision ref |
 |---|---|---|---|---|
-| 1 | Registration status | Submission itself | Authorized officer | DR-03 |
+| 1 | Registration status | Submission itself | Authorized officer | DR-03, DR-11 (recorded unknown as of 2026-10-14) |
 | 2 | Legal lead entity + eligibility confirmation | Submission itself | Authorized officer | DR-02 |
 | 3 | Beneficiary definition | Need, Solution, all downstream | Program lead | DR-01 |
 | 4 | Intervention / participant pathway | Solution, Mechanism, Budget | Program lead | DR-05 |

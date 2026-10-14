@@ -20,6 +20,14 @@
 | DR-09 | **Platform rights / IP** | (a) Documented ownership by team entity; (b) Licenses sufficient for proposed use; (c) Third-party components cleared; (d) none confirmed | Rights must cover the proposed use; rules require appropriate rights for third-party material; IP review flagged as important for a game platform | Rights schedule completed (`05-durability-risks-rights.md`): code, art, audio, branding, third-party, contributor agreements | Rights owner | Before submission | Submission blocked (eligibility-adjacent); Durability unclear |
 | DR-10 | **Post-grant durability model** | (a) Commercial revenue (investigated mechanism, not yet a plan); (b) Institutional adoption (unnamed); (c) Public funding; (d) none approved | Named owner, payer, annual operating cost, retained access; benefits must not depend only on continued grant funding | Operating-cost model post-grant; adoption commitments | Executive owner | Before narrative drafting | Durability criterion unscorable |
 
+### 1.1 Recorded decisions
+
+Entries are appended as decisions are made. An entry records the decided value, the deciding owner, the date, the evidence grade, the gate effect, and the named next action. Open rows (DR-01…DR-10) remain the live register; recorded entries are the audit trail.
+
+| Ref | Decision | Decided value | Deciding owner | Date | Evidence grade | Gate effect | Next action |
+|---|---|---|---|---|---|---|---|
+| DR-11 | Eligibility/registration gate (registration status + entity eligibility + geography) | **Unknown as of 2026-10-14** - as of 2026-10-14, the facts pack (`Documentation/Research/facts-pack.md`, facts #9, #10, #25) shows registration closed Sep 11 2026, 5:00 p.m. PT and that only registrants may submit; no registration confirmation, invitation, or Submittable account for any team entity is located. No positive claim is made about registration; the status is recorded as unknown. | Authorized officer `[INFORMATION NEEDED: named person; required to confirm or deny registration and to own the follow-up email; blocks the gate - DR-03]` | 2026-10-14 | E1 (gate facts, verified live 2026-10-14; documented absence of any registration confirmation; the status itself is ungraded - unknown, no positive claim) | **Blocked** | Authorized officer: send one email to boundless-sf@submittable.com covering (1) whether any registration exception is possible after Sep 11, (2) which rules §1 category fits a Bulgarian (non-U.S.) entity and how equivalency is evidenced (categories 7/9; conflict C2), (3) written confirmation of the geographic-rule application; record the written answer as a new DR entry or a DR-11 addendum. |
+
 ---
 
 ## 2. Data dictionary
