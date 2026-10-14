@@ -27,3 +27,4 @@ producing plan. Convention (constitution §11):
 | 013 | 013-narrative-framework | Prospectus/10-narrative.md | Narrative framework (8 sections, prose-block gate) | passed | 2026-10-14 |
 | 014 | 014-verification-pass | Refinement/02-refinement-checklist.md | Editing-test verdicts (14 PASS / 8 PARTIAL / 7 BLOCKED) | passed (after revision) | 2026-10-15 |
 | 015 | 015-readiness-sync | README.md, Prospectus/README.md, 00-prospectus.md | Readiness status sync (S0 framework-complete) | passed (after revision) | 2026-10-15 |
+| 016 | 016-review-sweep | Prospectus/00,01,03,04,05 (18 units, 6 batches) | Per-section threefold review sweep | in progress (B1: 2 FAIL units in revision) | - |
